@@ -29,3 +29,11 @@ In order to set up your IDE to have all the bells and whistles, you need to atta
   "python.formatting.blackArgs": ["--line-length=140"]
 }
 ```
+
+### Using this repo as a template
+Go to the directory you want this project to be into
+```
+cp -r /Users/bansalshray/Desktop/Projects/python-starter/. .
+````
+- Change the names of `python-starter`
+- Remove `.git` and reinit the git repo
