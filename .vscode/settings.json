@@ -1,0 +1,9 @@
+{
+  "python.pythonPath": "/Users/bansalshray/Library/Caches/pypoetry/virtualenvs/python-starter-Ak27cIVH-py3.7",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.flake8Args": ["--max-line-length=500"],
+  "python.linting.flake8Enabled": true,
+  "python.formatting.provider": "black",
+  "python.formatting.blackArgs": ["--line-length=140"]
+}
